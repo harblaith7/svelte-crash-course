@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Chemistry",
+        "imageUrl": "chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Which compound has the highest boiling point?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "a",
+                        "text": "butan-1-ol"
+                    },
+                    {
+                        "id": 2,
+                        "label": "b",
+                        "text": "butanal"
+                    },
+                    {
+                        "id": 3,
+                        "label": "c",
+                        "text": "butanonevv"
+                    },
+                    {
+                        "id": 4,
+                        "label": "d",
+                        "text": "butanoic acid"
+                    }
+                ],
+                "answer": "d"
+            },
+            {
+                "id": 2,
+                "question": "Which is the ground-state electronic configuration of chlorine?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "a",
+                        "text": "1s22s22p5"
+                    },
+                    {
+                        "id": 2,
+                        "label": "b",
+                        "text": "1s22s22p63s23p4"
+                    },
+                    {
+                        "id": 3,
+                        "label": "c",
+                        "text": "1s22s22p63s23p5"
+                    },
+                    {
+                        "id": 4,
+                        "label": "d",
+                        "text": "1s22s22p83s23p5"
+                    }
+                ],
+                "answer": "d"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Biology",
+        "imageUrl": "biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Which compound has the highest boiling point?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "a",
+                        "text": "butan-1-ol"
+                    },
+                    {
+                        "id": 2,
+                        "label": "b",
+                        "text": "butanal"
+                    },
+                    {
+                        "id": 3,
+                        "label": "c",
+                        "text": "butanonevv"
+                    },
+                    {
+                        "id": 4,
+                        "label": "d",
+                        "text": "butanoic acid"
+                    }
+                ],
+                "answer": "d"
+            }
+        ]
+
+    }
+]
