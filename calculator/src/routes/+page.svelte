@@ -154,6 +154,8 @@
     font-weight: bold;
     color: white;
     margin: 5px;
+    border: none;
+    cursor: pointer;
   }
 
   .number-btn-lg {
