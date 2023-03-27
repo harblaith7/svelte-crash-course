@@ -1,8 +1,8 @@
-import { writable } from 'svelte/store';
+import { writable } from "svelte/store";
 
-export interface Answers {
-	id: number;
-	isCorrect: boolean | null;
+export interface Answer {
+  id: number;
+  isCorrect: boolean | null;
 }
 
-export const answers = writable<Answers[]>([]);
+export const answers = writable<Answer[]>([]);

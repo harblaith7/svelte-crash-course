@@ -1,10 +1,8 @@
-<script>
-	import Card from '../components/Card.svelte';
-	import quizzes from '../data.json';
+<script lang="ts">
+  import quizzes from "../data.json";
+  import Card from "../components/Card.svelte";
 </script>
 
-<div>
-	{#each quizzes as quiz (quiz.id)}
-		<Card {quiz} />
-	{/each}
-</div>
+{#each quizzes as quiz (quiz.id)}
+  <Card {quiz} />
+{/each}
