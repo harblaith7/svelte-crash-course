@@ -67,7 +67,7 @@
         "questions": [
             {
                 "id": 1,
-                "text": "Which compound has the highest boiling point?",
+                "question": "Which compound has the highest boiling point?",
                 "options": [
                     {
                         "id": 1,
